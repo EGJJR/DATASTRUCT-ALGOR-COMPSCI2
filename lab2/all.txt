@@ -1,0 +1,17 @@
+# utils
+edu/bu/huffman/utils/EncodingPair.java
+edu/bu/huffman/utils/HuffmanNode.java
+edu/bu/huffman/utils/HuffmanTree.java
+
+
+# encoding
+edu/bu/huffman/encoding/CountNode.java
+edu/bu/huffman/encoding/Encoder.java
+
+# decoding
+
+
+# encoding unit
+edu/bu/huffman/encoding/unit/CountNodeTest.java
+edu/bu/huffman/encoding/unit/EncoderTest.java
+
